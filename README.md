@@ -5,7 +5,7 @@ In this project we show that the table below the curve needs to contain the cumm
 
 #### Download
 
-The R files and datasets used for the R-code can be downloaded by pressing the **green Code button** (right top of this window) and **selecting the download zip folder**. This file is called "KM plots-master.zip".
+The R files and datasets used for the R-code can be downloaded by pressing the **green Code button** (right top of this window) and selecting **Download ZIP**. This file is called "KM plots-master.zip"in your download folder.
 
 #### KM plots-master.zip
 
