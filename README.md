@@ -13,7 +13,7 @@ In the KM plots-master. zip file, you will find 2 folders:  datasets folder and 
 
 #### Create a new folder on your computer
 
-Put the .r files together with the .csv files in this new folder. Start your RStudio with a **new project in this folder** and you are done. In the right lower corner of your Rstudio openingspage you will find under **the Files tab** all .r files that you can import to your project.You also find the datasets used in this project.
+Put the .r files together with the .csv files in this new folder. Start your RStudio with a **new project in this folder** and you are done. In the right lower corner of your Rstudio openingspage you will find under the **Files** tab all .r files that you can import to your project.You also find the datasets used in this project.
 
 
 
