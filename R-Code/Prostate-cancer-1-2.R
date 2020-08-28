@@ -16,7 +16,7 @@ fu <- prostdata$fu
 
 events <- prostdata$events
 scenario <- prostdata$scenario
-# all variables in dataset prostdata
+# all variables in dataset 
 
 # scenario R = research arm, C = controle arm
 surv_object <- Surv(time = fu , event = events)
